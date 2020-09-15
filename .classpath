@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_251">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hibernate-jpamodelgen-5.4.12.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/c3p0-0.9.5.3.jar"/>
+	<classpathentry kind="lib" path="build/c3p0/c3p0-0.9.5.3.jar"/>
+	<classpathentry kind="lib" path="build/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="build/byte-buddy-1.10.7.jar"/>
+	<classpathentry kind="lib" path="build/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="build/dom4j-2.1.1.jar"/>
+	<classpathentry kind="lib" path="build/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="build/geolatte-geom-1.4.0.jar"/>
+	<classpathentry kind="lib" path="build/hibernate-commons-annotations-5.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="build/hibernate-core-5.4.12.Final.jar"/>
+	<classpathentry kind="lib" path="build/hibernate-envers-5.4.12.Final.jar"/>
+	<classpathentry kind="lib" path="build/hibernate-jpamodelgen-5.4.12.Final.jar"/>
+	<classpathentry kind="lib" path="build/hibernate-osgi-5.4.12.Final.jar"/>
+	<classpathentry kind="lib" path="build/hibernate-spatial-5.4.12.Final.jar"/>
+	<classpathentry kind="lib" path="build/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="build/jandex-2.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="build/javassist-3.24.0-GA.jar"/>
+	<classpathentry kind="lib" path="build/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="build/javax.interceptor-api-1.2.jar"/>
+	<classpathentry kind="lib" path="build/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="build/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="build/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="build/jboss-logging-3.3.2.Final.jar"/>
+	<classpathentry kind="lib" path="build/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="build/jts-core-1.16.0.jar"/>
+	<classpathentry kind="lib" path="build/org.osgi.compendium-5.0.0.jar"/>
+	<classpathentry kind="lib" path="build/org.osgi.core-6.0.0.jar"/>
+	<classpathentry kind="lib" path="build/postgresql-42.2.2.jar"/>
+	<classpathentry kind="lib" path="build/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="build/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="build/txw2-2.3.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
