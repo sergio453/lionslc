@@ -45,5 +45,44 @@
 	<classpathentry kind="lib" path="build/slf4j-api-1.6.1.jar"/>
 	<classpathentry kind="lib" path="build/stax-ex-1.8.jar"/>
 	<classpathentry kind="lib" path="build/txw2-2.3.1.jar"/>
+	<classpathentry kind="lib" path="build/spring-aop-4.0.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="build/spring-aop-4.0.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="build/spring-aop-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="build/spring-beans-4.0.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="build/spring-beans-4.0.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="build/spring-beans-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="build/spring-context-4.0.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="build/spring-context-4.0.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="build/spring-context-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="build/spring-context-support-4.0.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="build/spring-context-support-4.0.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="build/spring-context-support-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="build/spring-core-4.0.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="build/spring-core-4.0.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="build/spring-core-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="build/spring-expression-4.0.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="build/spring-expression-4.0.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="build/spring-expression-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="build/spring-jdbc-4.0.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="build/spring-jdbc-4.0.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="build/spring-jdbc-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="build/spring-orm-4.0.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="build/spring-orm-4.0.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="build/spring-orm-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="build/spring-test-4.0.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="build/spring-test-4.0.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="build/spring-test-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="build/spring-tx-4.0.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="build/spring-tx-4.0.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="build/spring-tx-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="build/spring-web-4.0.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="build/spring-web-4.0.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="build/spring-web-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="build/spring-webmvc-4.0.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="build/spring-webmvc-4.0.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="build/spring-webmvc-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="build/spring-webmvc-portlet-4.0.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="build/spring-webmvc-portlet-4.0.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="build/spring-webmvc-portlet-4.0.3.RELEASE.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
