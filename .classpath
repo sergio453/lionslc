@@ -127,5 +127,8 @@
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.activation-api-1.2.0.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.interceptor-api-1.2.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-security-core-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-security-core-5.4.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-security-config-5.4.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
