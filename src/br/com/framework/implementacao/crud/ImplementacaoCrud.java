@@ -20,7 +20,7 @@ import br.com.framework.interfac.crud.InterfaceCrud;
 @Transactional
 public class ImplementacaoCrud<T> implements InterfaceCrud<T> {
 
-	/**
+	/** Isto é um teste
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
